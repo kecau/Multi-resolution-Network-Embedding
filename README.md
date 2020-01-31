@@ -1,1 +1,1 @@
-# multiresolution-network-embedding
+# Multi-resolution Network Embedding
