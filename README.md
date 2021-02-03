@@ -1,5 +1,5 @@
 # Multi-resolution Network Embedding
-#Learning Multi-Resolution Representations of Research Patterns in Bibliographic Networks
+## Learning Multi-Resolution Representations of Research Patterns in Bibliographic Networks
 <p align="center">
   <img width="720" src="multiresloutionEmbedding.PNG">
 </p>
