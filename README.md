@@ -1,4 +1,8 @@
 # Multi-resolution Network Embedding
+
+### Note
+This repository is originated from [higd963/Multi-resolution-Network-Embedding](https://github.com/higd963/Multi-resolution-Network-Embedding).
+
 ### Learning Multi-Resolution Representations of Research Patterns in Bibliographic Networks
 <p align="center">
   <img width="720" src="multiresloutionEmbedding.PNG">
